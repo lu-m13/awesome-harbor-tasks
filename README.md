@@ -80,12 +80,25 @@ full, current list.
 
 > Add your repo here! Please include a one-line description, the domain, and the number of tasks.
 
+### Recursive self-improvement (RSI) / AI research & infrastructure benchmarks
+
+Tasks where an agent performs ML research or ML-systems engineering (e.g. training, inference
+optimization) under a fixed compute budget.
+
+| Repo | Tasks | Description |
+|---|---|---|
+| [apple-aiml-research/ml-rsi-inference-bench](https://github.com/apple-aiml-research/ml-rsi-inference-bench/tree/main/tasks) | TODO | RSI benchmark tasks on ML inference. |
+| [scaleapi/rsi-benchmark](https://github.com/scaleapi/rsi-benchmark/tree/main/tasks) | TODO | RSI benchmark tasks from Scale AI. |
+| [OpenRSI-Foundation/OpenRSI-Index](https://github.com/OpenRSI-Foundation/OpenRSI-Index/tree/main/rsi-tasks) | TODO | RSI task index from the OpenRSI Foundation. |
+| [OpenRSI-Foundation/OpenRSI-AI-Infra-Bench](https://github.com/OpenRSI-Foundation/OpenRSI-AI-Infra-Bench/tree/main/tasks) | TODO | AI-infrastructure tasks from the OpenRSI Foundation. |
+| [DAGroup-PKU/ResearchBoost-Agent (`bench` branch)](https://github.com/DAGroup-PKU/ResearchBoost-Agent/tree/bench/tasks) | TODO | ResearchBoost tasks on the `bench` branch. |
+| [DAGroup-PKU/ResearchBoost-Agent (`main` branch)](https://github.com/DAGroup-PKU/ResearchBoost-Agent/tree/main/tasks) | TODO | ResearchBoost tasks on the `main` branch. |
+
+### Other
+
 | Repo | Domain | Tasks | Description |
 |---|---|---|---|
 | _your-org/your-repo_ | _e.g. ML systems_ | _N_ | _What the agent must do and how it is verified_ |
-
-Ideas for categories: ML / LLM systems (quantization, distillation, inference speedups), CUDA & kernels,
-3D vision / graphics, security, data science, DevOps, scientific computing.
 
 ## Tools & Guides
 
